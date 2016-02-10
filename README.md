@@ -1,6 +1,7 @@
 # Codename: Laki
 Sylvia's Portfolio Site<br>
-Framework: None. Fully Responsive HTML/CSS/Javascript Portfolio Site<br>
+Fully Responsive HTML/CSS/Javascript Portfolio Site<br>
+[Website Link](http://www.sylviamaguina.com/)
 
 The simple minimalism achieved from this site took a lot of planning beforehand, which greatly influenced the copy, layouts, photos and interactivity.<br>
 
